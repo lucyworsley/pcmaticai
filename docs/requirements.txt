@@ -1,1 +1,1 @@
-docs/requirements.txt
+sphinx==7.2.6
